@@ -1,4 +1,7 @@
 # Phần mềm Quản lý học sinh THPT 
+## Lưu ý:
+- Muốn thay đổi hay thêm mới một chức năng, phải tạo một branch mới, Pull Request và review code trước khi merge vào branch chính (main). Không trực tiếp commit vào branch chính
+
 ## Hướng dẫn thiết lập:
 1. Tiến hành tạo một Database, copy và chạy lần lượt nội dung trong các file: [Tables.sql](https://github.com/taquaan/QuanLyDiemHocSinhTHPT/blob/main/Tables.sql) -> [Data.sql](https://github.com/taquaan/QuanLyDiemHocSinhTHPT/blob/main/Data.sql)
 2. Copy Server Name trên SQL Server và gán giá trị này cho biến **strKetNoi -> Data Source** trong file [KetNoiCSDL.cs](https://github.com/taquaan/QuanLyDiemHocSinhTHPT/blob/main/code/KetNoiCSDL.cs)
