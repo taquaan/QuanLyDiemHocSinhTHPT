@@ -1,0 +1,11 @@
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\bin\Debug\QuanLyDiemHocSinhTHPT.exe.config
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\bin\Debug\QuanLyDiemHocSinhTHPT.exe
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\bin\Debug\QuanLyDiemHocSinhTHPT.pdb
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.csproj.AssemblyReference.cache
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.FrmSuaDiem.resources
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.FrmVD.resources
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.Properties.Resources.resources
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.csproj.GenerateResource.cache
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.exe
+C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.pdb
