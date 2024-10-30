@@ -17,7 +17,7 @@ namespace QuanLyDiemHocSinhTHPT
 
     public void KetNoi_Dulieu()
     {
-      string strKetNoi = @"Data Source=<data-source>;Initial Catalog=QuanLyDiemHocSinhTHPT;Integrated Security=True";
+      string strKetNoi = @"Data Source=LAPTOP-3OLPRLBL\SQLEXPRESS;Initial Catalog=QuanLyDiemHocSinhTHPT;Integrated Security=True";
       cnn = new SqlConnection(strKetNoi);
       cnn.Open();
     }

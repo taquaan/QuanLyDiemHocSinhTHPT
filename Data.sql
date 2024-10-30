@@ -51,3 +51,19 @@ VALUES
 INSERT INTO TaiKhoanGiaoVien (TenDangNhap, MatKhau, VaiTro, MaGiaoVien)
 VALUES
 ('admin', 'admin12345', 'GiaoVien', 1)
+
+-- Thêm dữ liệu vào bảng GiaoVien
+INSERT INTO GiaoVien (MaGiaoVien, HoTenGiaoVien, NgaySinh, GioiTinh, SoDienThoai, Email, DiaChi, MaMonHoc)
+VALUES
+(2, 'Nguyen Thi Lan', '1985-02-15', 'Nữ', '0901112223', 'lan.nguyen@school.edu', '123 Teacher Ave', 2),
+(3, 'Tran Van Hoa', '1979-06-30', 'Nam', '0903334445', 'hoa.tran@school.edu', '456 Teacher Blvd', 3),
+(4, 'Le Thi Kim', '1990-11-05', 'Nữ', '0905556667', 'kim.le@school.edu', '789 Teacher Dr', 4),
+(5, 'Pham Van Dung', '1987-08-21', 'Nam', '0907778889', 'dung.pham@school.edu', '101 Teacher Ln', 5);
+
+-- Thêm dữ liệu vào bảng TaiKhoanGiaoVien
+INSERT INTO TaiKhoanGiaoVien (TenDangNhap, MatKhau, VaiTro, MaGiaoVien)
+VALUES
+('lan.nguyen', 'password123', 'GiaoVien', 2),
+('hoa.tran', 'password456', 'GiaoVien', 3),
+('kim.le', 'password789', 'GiaoVien', 4),
+('dung.pham', 'password012', 'GiaoVien', 5);
