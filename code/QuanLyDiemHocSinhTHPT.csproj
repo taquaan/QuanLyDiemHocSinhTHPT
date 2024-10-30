@@ -85,6 +85,9 @@
     <Compile Include="KetNoiCSDL.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmProfile.resx">
+      <DependentUpon>FrmProfile.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmSuaDiem.resx">
       <DependentUpon>FrmSuaDiem.cs</DependentUpon>
     </EmbeddedResource>
