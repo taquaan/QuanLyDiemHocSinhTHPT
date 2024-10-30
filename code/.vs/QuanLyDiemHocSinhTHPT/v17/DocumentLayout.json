@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|c:\\users\\phams\\source\\repos\\quanlydiemhocsinhthpt\\code\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|solutionrelative:frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\ketnoicsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|solutionrelative:ketnoicsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\frmdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|solutionrelative:frmdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\frmvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|solutionrelative:frmvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\frmsuadiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|solutionrelative:frmsuadiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|solutionrelative:frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE7396A-3221-472C-88B1-B269771361DB}|QuanLyDiemHocSinhTHPT.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KetNoiCSDL.cs",
+              "DocumentMoniker": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\KetNoiCSDL.cs",
+              "RelativeDocumentMoniker": "KetNoiCSDL.cs",
+              "ToolTip": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\KetNoiCSDL.cs",
+              "RelativeToolTip": "KetNoiCSDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:29:43.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "FrmDangNhap.cs",
+              "ToolTip": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDangNhap.cs",
+              "RelativeToolTip": "FrmDangNhap.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:22:16.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDangNhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "FrmDangNhap.Designer.cs",
+              "ToolTip": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDangNhap.Designer.cs",
+              "RelativeToolTip": "FrmDangNhap.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:14:57.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmVD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmVD.cs",
+              "RelativeDocumentMoniker": "FrmVD.cs",
+              "ToolTip": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmVD.cs [Design]",
+              "RelativeToolTip": "FrmVD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:14:50.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSuaDiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmSuaDiem.cs",
+              "RelativeDocumentMoniker": "FrmSuaDiem.cs",
+              "ToolTip": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmSuaDiem.cs [Design]",
+              "RelativeToolTip": "FrmSuaDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:14:47.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmProfile.cs",
+              "RelativeDocumentMoniker": "FrmProfile.cs",
+              "ToolTip": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmProfile.cs [Design]",
+              "RelativeToolTip": "FrmProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:14:45.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDoiMK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDoiMK.cs",
+              "RelativeDocumentMoniker": "FrmDoiMK.cs",
+              "ToolTip": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDoiMK.cs [Design]",
+              "RelativeToolTip": "FrmDoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:14:44.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDashboard.cs [Design]",
+              "RelativeToolTip": "FrmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:14:42.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "FrmDangNhap.cs",
+              "ToolTip": "C:\\Users\\phams\\source\\repos\\QuanLyDiemHocSinhTHPT\\code\\FrmDangNhap.cs [Design]",
+              "RelativeToolTip": "FrmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:14:32.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
