@@ -9,3 +9,15 @@ C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT
 C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.csproj.CoreCompileInputs.cache
 C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.exe
 C:\Users\Admin\taquan\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.pdb
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\bin\Debug\QuanLyDiemHocSinhTHPT.exe.config
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\bin\Debug\QuanLyDiemHocSinhTHPT.exe
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\bin\Debug\QuanLyDiemHocSinhTHPT.pdb
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.csproj.AssemblyReference.cache
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.FrmDangNhap.resources
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.FrmSuaDiem.resources
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.FrmVD.resources
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.Properties.Resources.resources
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.csproj.GenerateResource.cache
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.csproj.CoreCompileInputs.cache
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.exe
+C:\Users\phams\Source\Repos\QuanLyDiemHocSinhTHPT\code\obj\Debug\QuanLyDiemHocSinhTHPT.pdb
