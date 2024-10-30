@@ -86,6 +86,9 @@
     <Compile Include="KetNoiCSDL.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmDangNhap.resx">
+      <DependentUpon>FrmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmSuaDiem.resx">
       <DependentUpon>FrmSuaDiem.cs</DependentUpon>
     </EmbeddedResource>
