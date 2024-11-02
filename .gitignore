@@ -1,6 +1,6 @@
 # Ignore build output folders
-bin/
-obj/
+code/bin/*
+code/obj/*
 
 # Ignore Visual Studio files
 .vs/
